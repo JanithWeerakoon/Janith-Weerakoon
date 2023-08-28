@@ -1,2 +1,2 @@
-# Janith-Weerakoon
+# gitCode
 This is my first project
